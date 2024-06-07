@@ -16,3 +16,8 @@
                 input.value = "";
             }
         }
+
+
+        function sorting(){
+            
+        }
