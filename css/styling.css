@@ -12,10 +12,15 @@ body {
     background-color: rgb(61, 61, 61);
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 950px;
 }
 
 h1 {
     text-align: center;
+    color: #dc6e06;
+}
+h1:hover{
+    color: green;
 }
 
 input[type="text"] {
@@ -63,8 +68,4 @@ li {
 
 .delete-btn:hover {
     background-color: #da190b;
-}
-
-.title{
-    color: #dc6e06;
 }
